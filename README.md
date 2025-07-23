@@ -30,6 +30,10 @@ $\cdot$ [Dimensionality_reduction](Dimensionality_reduction/Dimensionality_reduc
 
 $\cdot$ 文件中需要的数据集来自 [kaggle](https://www.kaggle.com/competitions/digit-recognizer/data)
 
+### 分类模型评估 Evaluate
+
+$\cdot$ [evaluate](Classification_model_evaluation/evaluate.ipynb)：学习笔记
+
 ### 逻辑回归 Logistic Regression
 
 $\cdot$ [Logistic_regression](Logistic_regression/Logistic_regression.ipynb)：逻辑回归学习笔记
