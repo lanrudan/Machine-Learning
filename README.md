@@ -52,7 +52,7 @@
 
 * [SVM.ipynb](SVM/SVM.ipynb)：学习笔记
 
-* [main](SVM/main.tex)&[SVM.pdf](SVM/SVM.ipynb)：SVM基本内容的Latex代码及pdf文件
+* [main](SVM/main.tex)&[SVM.pdf](SVM/SVM.pdf)：SVM基本内容的Latex代码及pdf文件
 
 * [project](SVM/project.ipynb)：预测明天是否会下雨
 
