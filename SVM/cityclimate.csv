@@ -1,0 +1,101 @@
+ID,City,Climate
+0,Sydney,Warm temperate
+1,Melbourne,Warm temperate
+2,Brisbane,"High humidity summer, warm winter"
+3,Perth,"Hot dry summer, cool winter"
+4,Adelaide,"Hot dry summer, cool winter"
+5,GoldCoast,"High humidity summer, warm winter"
+6,Canberra,Cool temperate
+7,Newcastle,"Warm humid summer, mild winter"
+8,SunshineCoast,"Warm humid summer, mild winter"
+9,Wollongong,Warm temperate
+10,Hobart,Warm temperate
+11,Geelong,Warm temperate
+12,Townsville,"Warm humid summer, mild winter"
+13,Cairns,"Warm humid summer, mild winter"
+14,Toowoomba,Warm temperate
+15,Darwin,"Warm humid summer, mild winter"
+16,Ballarat,Warm temperate
+17,Bendigo,Warm temperate
+18,AlburyWodonga,Warm temperate
+19,Launceston,Warm temperate
+20,Mackay,"Warm humid summer, mild winter"
+21,Rockhampton,"Warm humid summer, mild winter"
+22,Bunbury,"Hot dry summer, cool winter"
+23,CoffsHarbour,"Warm humid summer, mild winter"
+24,HerveyBay,"Warm humid summer, mild winter"
+25,Mildura,"Hot dry summer, warm winter"
+26,Shepparton,Warm temperate
+27,Gladstone,"Warm humid summer, mild winter"
+28,Tamworth,Warm temperate
+29,Traralgon,Warm temperate
+30,Orange,Warm temperate
+31,Dubbo,Warm temperate
+32,Geraldton,"Hot dry summer, cool winter"
+33,NowraBomaderry,Warm temperate
+34,Bathurst,Warm temperate
+35,Warrnambool,Warm temperate
+36,Albany,"Hot dry summer, cool winter"
+37,KalgoorlieBoulder,"Hot dry summer, warm winter"
+38,Lismore,"Warm humid summer, mild winter"
+39,Armidale,Cool temperate
+40,Whyalla,"Hot dry summer, warm winter"
+41,PortMacquarie,"Warm humid summer, mild winter"
+42,Goulburn,Cool temperate
+43,Devonport,Warm temperate
+44,BrokenHill,"Hot dry summer, warm winter"
+45,PortAugusta,"Hot dry summer, warm winter"
+46,Sale,Warm temperate
+47,Maryborough,"Warm humid summer, mild winter"
+48,Emerald,"Hot dry summer, warm winter"
+49,Katherine,"Warm humid summer, mild winter"
+50,Bairnsdale,Warm temperate
+51,Singleton,Warm temperate
+52,Taree,"Warm humid summer, mild winter"
+53,Grafton,"Warm humid summer, mild winter"
+54,SwanHill,"Hot dry summer, warm winter"
+55,Griffith,"Hot dry summer, warm winter"
+56,AliceSprings,"Hot dry summer, warm winter"
+57,Echuca,Warm temperate
+58,Karratha,"Hot dry summer, warm winter"
+59,Queanbeyan,Cool temperate
+60,Morwell,Warm temperate
+61,Lithgow,Warm temperate
+62,Wangaratta,Warm temperate
+63,Horsham,Warm temperate
+64,Warwick,Warm temperate
+65,Busselton,"Hot dry summer, cool winter"
+66,Gympie,"Warm humid summer, mild winter"
+67,ForsterTuncurry,"Warm humid summer, mild winter"
+68,Kingaroy,Warm temperate
+69,Inverell,Cool temperate
+70,Parkes,Warm temperate
+71,Roma,Warm temperate
+72,MountIsa,"Hot dry summer, warm winter"
+73,Yass,Cool temperate
+74,Cooma,Cool temperate
+75,Bega,Warm temperate
+76,Narrabri,Warm temperate
+77,ChartersTowers,"Warm humid summer, mild winter"
+78,Goondiwindi,Warm temperate
+79,PortHedland,"Hot dry summer, warm winter"
+80,Esperance,Warm temperate
+81,Burnie,Warm temperate
+82,Bowen,"Warm humid summer, mild winter"
+83,Yeppoon,"Warm humid summer, mild winter"
+84,Atherton,"Warm humid summer, mild winter"
+85,MountBarker,"Hot dry summer, cool winter"
+86,VictorHarbor,"Hot dry summer, cool winter"
+87,MurrayBridge,"Hot dry summer, warm winter"
+88,StGeorge,Warm temperate
+89,Deniliquin,Warm temperate
+90,Nhulunbuy,"Warm humid summer, mild winter"
+91,Kununurra,"Warm humid summer, mild winter"
+92,Ceduna,"Hot dry summer, warm winter"
+93,Longreach,"Hot dry summer, warm winter"
+94,Clermont,Warm temperate
+95,Stanthorpe,Cool temperate
+96,KingIsland,Warm temperate
+97,Nambour,"Warm humid summer, mild winter"
+98,MountGambier,Warm temperate
+99,WaggaWagga,Warm temperate
