@@ -64,7 +64,7 @@
 * [linear_regression](Linear_regression/linear_regression.ipynb)：学习笔记
 
 ### 朴素贝叶斯 Naive Bayes
-* [Naive_Bayes](Naive_Bayes/Naive_Bayes.ipynb)：学习笔记
+* [Naive_Bayes](Naive_Bayes/Naive_Bayes.ipynb)，[如果github无法可视化点击这里](https://nbviewer.org/github/lanrudan/Machine-Learning/blob/main/Naive_Bayes/Naive_Bayes.ipynb)：学习笔记
 * pdf文件分别为四个常见的朴素贝叶斯方法的介绍
 
 
