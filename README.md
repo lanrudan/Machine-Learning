@@ -63,6 +63,9 @@
 ### 线性回归 Linear Regression
 * [linear_regression](Linear_regression/linear_regression.ipynb)：学习笔记
 
+### 朴素贝叶斯 Naive Bayes
+* [Naive_Bayes](Naive_Bayes/Naive_Bayes.ipynb)：学习笔记
+* pdf文件分别为四个常见的朴素贝叶斯方法的介绍
 
 
 
