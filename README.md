@@ -4,7 +4,7 @@
 
 * [泰坦尼克号乘客存活情况.ipynb](Decision_tree/tut.ipynb)
 
-* [数据集，其中存放了泰坦尼克号的乘客数据与存活情况.csv](Decision_tree/train.csv)
+* [数据集.csv](Decision_tree/train.csv)，其中存放了泰坦尼克号的乘客数据与存活情况
 
 ### 集成算法 [Ensemble.pdf](Ensemble/ensemble.pdf)
 
@@ -12,9 +12,11 @@
 
 * [乳腺癌.ipynb](Ensemble/Bagging/Breast_tumor_ana.ipynb)
 
-#### Boosting 梯度提升树 
+#### Boosting 梯度提升树 [GBDT](Ensemble/Boosting/Gradient_Boosted_Trees.ipynb)
 
 * [XGBoost.pdf](Ensemble/Boosting/xgboost.pdf)
+
+* [xgboost.ipynb](Ensemble/Boosting/project.ipynb)
 
 ### 数据预处理 [Data Preprocessing](Data_preprocessing/Data_preprocessing.ipynb)
 
