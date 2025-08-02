@@ -18,6 +18,8 @@
 
 * [xgboost.ipynb](Ensemble/Boosting/project.ipynb)
 
+* [公式推倒过程](Ensemble/Boosting/handwriting.pdf)
+
 ### 数据预处理 [Data Preprocessing](Data_preprocessing/Data_preprocessing.ipynb)
 
 ### 特征选择 [Feature Selection](Feature_selection/Feature_selection.ipynb)
